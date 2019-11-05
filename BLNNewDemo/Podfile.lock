@@ -1,0 +1,20 @@
+PODS:
+  - HXPhotoPicker (2.3.1)
+  - MJExtension (3.1.0)
+
+DEPENDENCIES:
+  - HXPhotoPicker
+  - MJExtension
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HXPhotoPicker
+    - MJExtension
+
+SPEC CHECKSUMS:
+  HXPhotoPicker: 3845637c6a6e98ebf5bfad5ed67bcab8ce3786c2
+  MJExtension: 6b69b3bef2864fd550ce1a184eda219e321209d2
+
+PODFILE CHECKSUM: 5a126a0d2b8c3d1c8ece1395c6394ffc43d610ca
+
+COCOAPODS: 1.6.0.beta.2

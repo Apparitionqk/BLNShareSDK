@@ -1,0 +1,29 @@
+//
+//  PrefixHeader.pch
+//  BLNNewDemo
+//
+//  Created by 齐科 on 2019/9/4.
+//  Copyright © 2019 齐科. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#define YouLingAppId @"sk00ccb184ac114d8e"
+#define YouLingAppSecret @"9900d397d3486d1eebd51b3c79625aa3"
+
+#define BLNAppId @"SDYbab7998f91464a8c" //@"sk23cd36cdce2c4bc0"
+#define BLNAppSecret @"bd913c36388438efcc22265bfebd0570" //@"b5d5945e0499b75dd7cec84d26d51727"
+
+#import "BLNSocialManager.h"
+#import "BLNMsgBase.h"
+
+#import "YLSDK/YLSocialManager.h"
+#import "YLSDK/YLMsgBase.h"
+
+
+#import <MJExtension/MJExtension.h>
+
+#endif /* PrefixHeader_pch */

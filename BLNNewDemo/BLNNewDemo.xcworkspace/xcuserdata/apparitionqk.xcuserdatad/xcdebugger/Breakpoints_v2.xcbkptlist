@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D32126B6-02BB-47CD-BD47-7098177333EB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B75FE38-A49F-4944-B898-D8F3C7EDEAFB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BLNSDK/BLNSDK/BLNSocialManager+Text.m"
+            timestampString = "589102336.173331"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "-handleShareTextResultWithDic:callBack:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6DB9416-EF95-4C9C-9DDA-1A1F0C2EC806"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SourceSdk/BLNSDK/BLNSDK/BLNSocialManager.m"
+            timestampString = "591184538.1060981"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "357"
+            endingLineNumber = "357"
+            landmarkName = "-shareVideo:callBack:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D6DB9416-EF95-4C9C-9DDA-1A1F0C2EC806 - 487381dd32cdba56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BLNSocialManager shareVideo:callBack:]"
+                  moduleName = "BLNNewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apparitionqk/Desktop/SourceSdk/BLNSDK/BLNSDK/BLNSocialManager.m"
+                  timestampString = "591090130.53479"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "357"
+                  endingLineNumber = "357"
+                  offsetFromSymbolStart = "1780">
+               </Location>
+               <Location
+                  uuid = "D6DB9416-EF95-4C9C-9DDA-1A1F0C2EC806 - 3d088fd85f0dc1ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__40-[BLNSocialManager shareVideo:callBack:]_block_invoke"
+                  moduleName = "BLNNewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apparitionqk/Desktop/SourceSdk/BLNSDK/BLNSDK/BLNSocialManager.m"
+                  timestampString = "591090130.536597"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "357"
+                  endingLineNumber = "357"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "D6DB9416-EF95-4C9C-9DDA-1A1F0C2EC806 - b05ae676fa539bab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.284"
+                  moduleName = "BLNNewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apparitionqk/Desktop/SourceSdk/BLNSDK/BLNSDK/BLNSocialManager.m"
+                  timestampString = "591090130.53819"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "357"
+                  endingLineNumber = "357"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
